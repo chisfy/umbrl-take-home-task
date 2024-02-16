@@ -4,7 +4,7 @@ import Navbar from "./Navbar";
 export default function Header() {
   return (
     <>
-    <div>Brainwave.io</div>
+    <h1>Brainwave.io</h1>
     <Navbar/>
     </>
   )
