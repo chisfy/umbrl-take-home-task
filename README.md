@@ -4,6 +4,12 @@
 <img src="https://github.com/chisfy/umbrl-take-home-task/assets/137444313/993d5f4c-49e2-4595-8b04-7855d62f066b"></img>
 <a href="https://www.figma.com/file/oTSs2I0jrPlfPuYhwgUDsw/Brainwave-Umbrl-Landing-Page-Breakdown?type=whiteboard&node-id=0%3A1&t=n2dvlDmvV2cam8ls-1">Landing Page Breakdown</a>
 
+<p>Result after 1 hour:</p>
+<p>Landing Page</p>
+<img src="https://github.com/chisfy/umbrl-take-home-task/assets/137444313/a3093157-637a-4657-ad72-ca66231c3cac"></img>
+<p>Other pages of App</p>
+<img src="https://github.com/chisfy/umbrl-take-home-task/assets/137444313/facb8d97-0a45-4dea-8852-7ffec672c6e8"></img>
+
 <h3>My Process</h3>
 <p>
 My first instinct was to understand the prototype given and break it down, utilising figma and referencing colours, font from the UI kit and design file.
