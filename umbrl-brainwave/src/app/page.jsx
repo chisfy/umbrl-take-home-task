@@ -1,12 +1,13 @@
 import Header from "./components/Header";
 import LandingPageTitle from "./components/LandingPageTitle";
-import styles from "./page.module.css";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
     <>
       <Header/>
       <LandingPageTitle/>
+      <Footer/>
     </>
   );
 }
